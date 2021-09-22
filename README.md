@@ -1,6 +1,9 @@
 # 目錄
 * Ubuntu
-1.  [Chapter 1. How to download and install](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Ubuntu/UnubtuServer-install.pdf)
+1.  [下載及安裝](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Ubuntu/UnubtuServer-install.pdf)
+2.  [基本介紹patt1](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Ubuntu/Ubuntu-Server.part1.md)
+3.  [基本介紹part2](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Ubuntu/Ubuntu-Server.part2.md)
 * Alpine
-1.  [Chapter 1. How to download](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Alpine/download%20Alpine.md)
-2.  [Chapter 2. Install and setting](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Alpine/install%20Alpine.md)
+1.  [下載](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Alpine/download%20Alpine.md)
+2.  [安裝及設定](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Alpine/install%20Alpine.md)
+3.  [基本介紹](https://github.com/Luba-code/Ubuntu-2021_Alpine-2021/blob/main/Alpine/Alpine%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%B4%B9.md)
