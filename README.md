@@ -4,5 +4,3 @@
 * Alpine
 1.  [Chapter 1. How To Download](https://github.com/Luba-code/Alpine_2021/blob/main/Documents/How%20To%20Download.md)
 2. [Chapter 2. Install and Setting](https://github.com/Luba-code/Alpine_2021/blob/main/Documents/Install%20and%20Setting.md)
-
-###### tags: `Alpine`
