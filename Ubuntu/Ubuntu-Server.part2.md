@@ -30,7 +30,7 @@ sudo userdel -r 就是刪除一般使用者
 
 ![](https://i.imgur.com/nSY6sgZ.jpg)
 
-改完yaml檔案之後，可以用sudo netplan try先測試看看有沒有錯誤，假如有錯它會提示你，並且部會讓你按enter，如果確定更改後sudo netplan apply 就可以更改IP，遮罩等等，不用reboot
+改完yaml檔案之後，可以用sudo netplan try先測試看看有沒有錯誤，假如有錯它會提示你，並且不會讓你按enter，如果確定更改後sudo netplan apply 就可以更改IP，遮罩等等，不用reboot
 
 ping 看看 google 有沒有回應，有代表網路是通的
 
